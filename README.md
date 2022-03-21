@@ -12,5 +12,13 @@ https://github.com/gotica462/Pyber_Analysis/blob/main/PyBer_Challenge.ipynb
 
 Here are our results:
 
+![image](https://github.com/gotica462/Pyber_Analysis/blob/main/Analysis/Table_summary.png)
+
+As expected the total drivers and total rides are significantly greater in the Urban areas, but the drivers in the rural areas earn more money per ride. We canconclude that peope use the Pyber service less in rural areas but they travel longest distances and therefore earn more money, but the chances of making money in rural and suburban areas is significantly less than in urban areas based on the total number of rides. Fianlly we can see there is more competition in the urban areas.
+
+See the line graph below to see the fares for each city over time from January to April
+
+
+
 
 
