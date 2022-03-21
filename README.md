@@ -34,7 +34,7 @@ Based on our analysis we can make the following recommendations:
 
 - Make the fares include not only the mileage, but also the time spend on the car. We can assume since urban areas are more compact, drivers travels less miles and therefore earn less money, but it is also possible that they spend the same amount of time in each ride due to traffic conditions. I would suggest doing an analysis using the mileage for each ride and the average time of each ride in each type of cities.
 
-- Do more advertising in the urban areas. Since 
+- Do more advertising in the urban areas. The table shows us that the number of drivers in the urban areas exceed the numbers of rides. We can theorize that in urban areas people are accostumed to use public transportation. If we can get the word out of our service, and doing promotions like first ride free, and do a good advertising campaign maybe we can get people in the urban areas to use more Pyber.
 
 
 
